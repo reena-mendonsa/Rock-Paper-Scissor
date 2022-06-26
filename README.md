@@ -16,6 +16,6 @@ To display icons use the snippet below:
 
 <i class="fa fa-hand-scissors-o" aria-hidden="true"></i>
 Use this Algorithm
-Scissors cuts Paper
-Paper covers Rock
-Rock crushes Scissors
+--Scissors cuts Paper
+--Paper covers Rock
+--Rock crushes Scissors
